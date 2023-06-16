@@ -1,4 +1,4 @@
-# Final Project - Devops
+# Final Project - DevOps
 
 ## GIT:
 1. Create/find a simple web application (jsp) (1)
